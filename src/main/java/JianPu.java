@@ -10,5 +10,8 @@ public class JianPu {
         System.out.println("yyyyyyyyyy");
         System.out.println("yyyyyyyyyy");
         System.out.println("yyyyyyyyyy");
+        System.out.println("yyyyyyyyyy");
+        System.out.println("yyyyyyyyyy");
+        System.out.println("yyyyyyyyyy");
     }
 }
