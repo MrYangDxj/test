@@ -7,7 +7,8 @@
 public class JianPu {
     public static void main(String[] args) {
         System.out.println("aaaaaaaaaa");
-        System.out.println("aaaaaaaaaa");
-        System.out.println("aaaaaaaaaa");
+        System.out.println("yyyyyyyyyy");
+        System.out.println("yyyyyyyyyy");
+        System.out.println("yyyyyyyyyy");
     }
 }
